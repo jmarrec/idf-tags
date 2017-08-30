@@ -10,12 +10,12 @@ Usage:
 Options:
   -r --recursive    Search for IDF files is recursive (includes subdirectories)
   -h --help         Show this screen.
-  -v --version         Show version.
+  -v --version      Show version.
 
 Examples:
-  idf-tags
-  idf-tags -r
-  idf-tags in.idf
+  idf-tags          Generates a tag file for all files in current directory
+  idf-tags -r       Tag file including subdirectories
+  idf-tags in.idf   Tag file for a specific IDF file
 
 Help:
   For help using this tool, please open an issue on the Github repository:
