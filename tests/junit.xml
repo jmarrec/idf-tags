@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skips="0" tests="1" time="1.076"><testcase classname="idf-tags.tests.test_cli.TestIdfTagsCLI" file="idf-tags/tests/test_cli.py" line="95" name="test_with_path" time="0.871218204498291"><failure message="assert False">../test_cli.py:107: in test_with_path
+    assert False
+E   assert False</failure><system-out>Current dir in fixture: /Users/julien/Software/idf-tags/tests/test_files
+test with path: /Users/julien/Software/idf-tags/tests/test_files
+cleaning up
+</system-out></testcase></testsuite>
