@@ -468,7 +468,6 @@ def tag_idfs(idf_path=None, recursive=True):
 
     """
 
-
     if idf_path is None:
         if recursive is True:
             # Python 2 doesn't support recursive...
